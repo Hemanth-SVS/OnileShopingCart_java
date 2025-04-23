@@ -18,8 +18,6 @@ Abstract :
 
 
 
-
-
 1. Introduction
 The Online Shopping Cart project is a e-commerce application that allows users to browse products, add them to their cart, and proceed with secure payments. The system ensures a user-friendly experience for both customers and administrators by providing efficient product management, order processing, and secure transactions.
 2. Project Functionality
@@ -31,16 +29,8 @@ The online shopping cart system provides:
 •	Secure Payment Processing
 •	Admin Product & User Management
  
-        Use case diagram
+  
  
- 
- 
- 
-Sequence diagram 
- 
- 
-
-
 3. Features
 •	User Authentication: Secure login and registration for customers and admins.
 •	Admin Panel: Manage products, categories, orders and users.
@@ -58,6 +48,9 @@ Sequence diagram
 3.	Adding to Cart: Users add selected products to their shopping cart.
 4.	Placing an Order: Users proceed to checkout and confirm payment.
 5.	Admin Functions: Admins can manage users, products, and track orders.
+
+
+   
 5. System Requirements
 Hardware Requirements
 •	Processor: Intel Core i5 or higher
