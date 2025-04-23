@@ -20,6 +20,7 @@ Abstract :
 
 1. Introduction
 The Online Shopping Cart project is a e-commerce application that allows users to browse products, add them to their cart, and proceed with secure payments. The system ensures a user-friendly experience for both customers and administrators by providing efficient product management, order processing, and secure transactions.
+
 2. Project Functionality
 The online shopping cart system provides:
 •	User Registration & Authentication
@@ -43,20 +44,20 @@ The online shopping cart system provides:
 
 
 4. Usage Manual
-1.	Customer Registration/Login: Users create an account and log in.
-2.	Browsing Products: Customers view products by category.
-3.	Adding to Cart: Users add selected products to their shopping cart.
-4.	Placing an Order: Users proceed to checkout and confirm payment.
-5.	Admin Functions: Admins can manage users, products, and track orders.
+*	Customer Registration/Login: Users create an account and log in.
+*	Browsing Products: Customers view products by category.
+*	Adding to Cart: Users add selected products to their shopping cart.
+ *	Placing an Order: Users proceed to checkout and confirm payment.
+*	Admin Functions: Admins can manage users, products, and track orders.
 
 
    
 5. System Requirements
-Hardware Requirements
+Hardware Requirements:
 •	Processor: Intel Core i5 or higher
 •	RAM: 8GB or higher
 •	Storage: 500GB HDD or SSD
-Software Requirements
+Software Requirements:
 •	Operating System: Windows/Linux/macOS
 •	Java Development Kit (JDK)
 •	MySQL Database Server
